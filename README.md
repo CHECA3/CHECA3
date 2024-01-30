@@ -2,6 +2,8 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/CHECA3?style=social)
 
+I am scientific staff at the University of Seville since 2023 in the department of computer languages and systems.
+I will be using github to participate and develop interesting projects.
 
 <!--
 **CHECA3/CHECA3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
