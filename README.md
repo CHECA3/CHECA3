@@ -1,5 +1,8 @@
 ### Hi there, mi name is Antonia👋
 
+![GitHub Followers](https://img.shields.io/github/followers/CHECA3?style=social)
+
+
 <!--
 **CHECA3/CHECA3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
