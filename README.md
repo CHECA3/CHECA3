@@ -9,7 +9,7 @@ I will be using github to participate and develop interesting projects.
 
 ## Tecnologías:
 
-[![R]([https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010](https://blogs.swarthmore.edu/its/wp-content/uploads/2017/06/R_logo-1.png))]()
+[!([https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010](https://blogs.swarthmore.edu/its/wp-content/uploads/2017/06/R_logo-1.png))]()
 
 
 
