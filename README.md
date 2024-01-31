@@ -7,6 +7,8 @@
 I am scientific staff at the University of Seville since 2023 in the department of computer languages and systems.
 I will be using github to participate and develop interesting projects.
 
+![](https://raw.githubusercontent.com/CHECA3/CHECA3/main/us.png)
+
 ***
 
 
