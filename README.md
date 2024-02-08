@@ -9,7 +9,7 @@
   <p>I am scientific staff at the University of Seville since 2023 in the department of computer languages and systems.</p>
   <p>I will be using github to participate and develop interesting projects.</p>
 
-  <p>Contacto: acazalilla@us.es </p>
+  <p>Contact: acazalilla@us.es </p>
 
   <img src="https://raw.githubusercontent.com/CHECA3/CHECA3/main/us.png" alt="us" width="50">
 
